@@ -29,12 +29,18 @@ Skills
 * Python 3
   * Django
   * Django REST framework
-  * Telegram bot
   * SQLAlchemy
-  * Asynchronous I/O
+  * Telegram bot
+  * Numpy
+  * Pandas
+  * Keras
+  * Matplotlib
+  * NLTK
+  * Fire
+  * Asynchronous Programming
   * Web scraping
-  * Machine Learning
-  * Data Mining
+  * BeautifulSoup
+  * Poetry
 * JavaScript
   * Node Js
   * Pure Javascript
@@ -44,9 +50,10 @@ Skills
 * GraphQL API
 * MVC programming
 * TDD programming
+* Clean Code
+* Machine Learning
 * Hyperledger Fabric
 * PostgreSQL
-* MySQL
 * Redis
 * Grafana
 * Prometheus
@@ -81,3 +88,4 @@ Research Interests
 * Machine Learning
 * Distributed systems
 * Internet of Things
+* Software architecture
