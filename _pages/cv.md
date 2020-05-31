@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a style="line-height: 1.5;" href="http://ehsanbarkhordar.github.io/CV.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
-
 Education
 ======
 * High School Diploma in Mathematics and Physics, *Shahid Beheshti*, Neyshabur, Iran, 2009 - 2013 
