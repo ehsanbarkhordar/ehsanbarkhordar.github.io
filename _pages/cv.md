@@ -39,25 +39,25 @@ Skills
   * High experience in messenger bot design
   * Strong unit test and debugging skills
   * Good experience in Web scraping
-* Familiarity with front-end technologies (like JavaScript and HTML5)
+* Familiarity with HTML/CSS/JavaScript
 * Nodejs
-* Golang
+* Golang(learning)
 * REST API
 * GraphQL API
 * MVC programming
 * TDD programming
 * Clean Code
-* Machine Learning
-* Hyperledger Fabric
 * PostgreSQL
 * Redis
 * Grafana
 * Prometheus
 * Docker
-* CI/CD
-* Ubuntu 18.04 / CentOS 7
-* HTML/CSS
-* GIT
+* Gitlab CI/CD
+* Git
+* Machine Learning / Deep Learning
+* Blockchain (Hyperledger Fabric)
+* Ubuntu/Centos
+
   
 Honors and Awards
 ======
