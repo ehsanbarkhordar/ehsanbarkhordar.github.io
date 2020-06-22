@@ -24,25 +24,23 @@ Work experience
   
 Skills
 ======
-* Python 3
-  * Django
-  * Django REST framework
-  * SQLAlchemy
-  * Telegram bot
-  * Numpy
-  * Pandas
-  * Keras
-  * Matplotlib
-  * NLTK
-  * Fire
-  * Asynchronous Programming
-  * Web scraping
-  * BeautifulSoup
-  * Poetry
-* JavaScript
-  * Node Js
-  * Pure Javascript
-  * jQuery
+* Python3
+  * OOP & Design patterns
+  * Django & Django REST framework
+  * Familiarity with some ORM (Object Relational Mapper) libraries
+  * Able to integrate multiple data sources and databases into one system
+  * Understanding of the threading limitations of Python, and multi-process architecture
+  * Good understanding of server-side templating languages {{such as Jinja 2, Mako, etc depending on your technology stack}}
+  * Understanding of accessibility and security compliance {{depending on the specific project}}
+  * Knowledge of user authentication and authorization between multiple systems, servers, and environments
+  * Understanding of fundamental design principles behind a scalable application
+  * Able to create database schemas that represent and support business processes
+  * Familiarity with data science libraries {{such as Pandas, Matplotlib, Numpy, SciPy, Keras, ...}}
+  * High experience in messenger bot design
+  * Strong unit test and debugging skills
+  * Good experience in Web scraping
+* Familiarity with front-end technologies (like JavaScript and HTML5)
+* Nodejs
 * Golang
 * REST API
 * GraphQL API
