@@ -36,27 +36,29 @@ Skills
   * Understanding of fundamental design principles behind a scalable application
   * Able to create database schemas that represent and support business processes
   * Familiarity with data science libraries {{such as Pandas, Matplotlib, Numpy, SciPy, Keras, ...}}
+  * Adept at automating repetitive work through Shell scripts and Python
   * High experience in messenger bot design
   * Strong unit test and debugging skills
   * Good experience in Web scraping
 * Familiarity with HTML/CSS/JavaScript
 * Nodejs
-* Golang(learning)
-* REST API
+* Golang(Learning)
+* RESTful APIs
 * GraphQL API
 * MVC programming
 * TDD programming
 * Clean Code
-* PostgreSQL
+* PostgreSQL/MYSQL/SQlite
 * Redis
 * Grafana
 * Prometheus
-* Docker
+* Docker/docker-compose
 * Gitlab CI/CD
 * Git
 * Machine Learning / Deep Learning
 * Blockchain (Hyperledger Fabric)
 * Ubuntu/Centos
+* BPMN v2.0
 
   
 Honors and Awards
